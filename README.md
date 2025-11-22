@@ -8,4 +8,4 @@ comment out the version that you do not want to use. The second version is activ
 by default.
 
 ### how to convert
-Simply enter the number of miles either by typing it the form provided or selecting it from the up/down arrows to the right of the number field.
+Simply enter the number of miles either by typing it in the form provided or selecting it from the up/down arrows to the right of the number field.
